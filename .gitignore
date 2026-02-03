@@ -1,0 +1,15 @@
+*.env
+*.txt
+*.json
+*.csv
+*.log
+*.out
+*.err
+*.tmp
+*.tmp.*
+*.tmp/**
+*.tmp/**.*
+*.tmp/**/**
+*.tmp/**/**.*
+*.venv/*
+*.pyc
